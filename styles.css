@@ -62,11 +62,11 @@
 	bottom:30px;
 	display:flex;
 	justify-content:space-around;
-	align-item:center;
+	align-item:normal;
 	left:25%
 }
 .nostril{
-
+	
 	height: 50%;
 	width: 25%;
 	background-color: black;
